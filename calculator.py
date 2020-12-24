@@ -20,4 +20,4 @@ else:
     elif (peoola == 5):
         print(num1 ** num2)
     else:
-        print("wrong action")
+        print("wrong actions")
